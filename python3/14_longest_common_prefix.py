@@ -18,7 +18,6 @@ class Solution:
             prefix += first_str[idx]
         return prefix
 
-
 if __name__ == "__main__":
     strs = ["dog","racecar","car"]
     print(Solution.longestCommonPrefix(strs))

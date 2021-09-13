@@ -21,6 +21,8 @@ class Solution_2:
     Space: O(1)
     runtime: 
     memory:
+
+    
     '''
     @staticmethod
     def isPalindrome(x: int) -> bool:
